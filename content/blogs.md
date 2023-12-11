@@ -1,0 +1,74 @@
+# **Rohan Kumar's Blogs**
+---
+
+I frequently write blogposts related to the projects I'm working on either on my personal medium or on some other public blogging platforms. 
+
+## 2023
+| Date       | Publisher  | Title               | tags                                    |
+|--------------|--------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Dec 12 | This                    | [test]({{< ref "/content/markdown-blogs/blog1.md" >}})                           | java, kubernetes, docker, maven         |
+|Sep 21 | DZone                    | [How To Deploy Helidon Application to Kubernetes With Kubernetes Maven Plugin](https://dzone.com/articles/how-to-deploy-helidon-application-to-kubernetes-wi)                           | java, kubernetes, docker, maven         |
+| Apr 03 | Personal Medium          | [What’s new in Eclipse JKube v1.12.0 ?](https://rohaan.medium.com/whats-new-in-eclipse-jkube-v1-12-0-2980bafe2328)                                                                  | java, kubernetes, docker, maven, gradle |
+| Jan 24 | Red Hat Developer        | [How to generate code using Fabric8 Kubernetes Client](https://developers.redhat.com/articles/2023/01/24/how-generate-code-using-fabric8-kubernetes-client)                                                   | java, kubernetes                        |
+| Jan 24 | Red Hat Developer        | [How to write tests with Fabric8 Kubernetes Client](https://developers.redhat.com/articles/2023/01/24/how-write-tests-fabric8-kubernetes-client)  | java, kubernetes                        |
+| Jan 05 | Red Hat Developer        | [How to use Kubernetes dynamic client with Fabric8](https://developers.redhat.com/articles/2023/01/05/how-use-fabric8-kubernetes-client)    | java, kubernetes                        |
+| Jan 04 | Red Hat Developer        | [Programming Kubernetes custom resources in Java](https://developers.redhat.com/articles/2023/01/04/programming-kubernetes-custom-resources-java)           | java, kubernetes                        |
+                      |
+
+## 2022
+| Date       | Publisher | Title                | tags                                    |
+|--------------|--------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Dec 16 | DZone                    | [Kubernetes Remote Development in Java Using Kubernetes Maven Plugin](https://dzone.com/articles/kubernetes-remote-development-in-java-using-kubern)                                    | java, kubernetes, maven                 |
+| Aug 01 | Red Hat Developer        | [How to configure Helm charts using JKube, part 2](https://developers.redhat.com/articles/2022/08/01/how-configure-helm-charts-using-jkube-part-2)                                                       | java, kubernetes, maven                 |
+| Apr 14 | Red Hat Developer        | [How Helm and JKube simplify Kubernetes management, part 1](https://developers.redhat.com/articles/2022/04/14/generate-helm-charts-your-java-application-using-jkube-part-1)                                              | java, kubernetes, maven                 |
+| Mar 30 | Personal Medium          | [How to contribute to Eclipse JKube?](https://rohaan.medium.com/how-to-contribute-to-eclipse-jkube-f3bc7f902bf4)                                                                    | java, open-source                       |
+| Mar 01 | Red Hat Developer        | [Package and run your Java Maven application on OpenShift in seconds](https://developers.redhat.com/articles/2022/03/01/package-and-run-your-java-maven-application-openshift-seconds#)                                    | java, kubernetes, maven                 |
+| Jan 16 | DZone                    | [Containerize Gradle Apps and Deploy to Kubernetes With JKube Kubernetes Gradle Plugin](https://dzone.com/articles/containerize-gradle-apps-amp-deploy-to-kubernetes)                  | java, kubernetes, gradle                |
+
+## 2021
+| Date       | Publisher | Title                | tags                                    |
+|--------------|--------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Dec 09 | Red Hat Developer        | [Get started with Gradle plugins for Eclipse JKube](https://developers.redhat.com/articles/2021/12/09/get-started-gradle-plugins-eclipse-jkube)                                                      | java, kubernetes, gradle                |
+| Jul 16 | Red Hat Developer        | [What's new in fabric8 Kubernetes client version 5.5.0](https://developers.redhat.com/articles/2021/07/16/whats-new-fabric8-kubernetes-client-version-550#)                                                  | java, kubernetes                        |
+| Jun 28 | The Enterprisers Project | [(Interview) How to migrate Java workloads to containers: 3 considerations](https://enterprisersproject.com/article/2021/6/how-migrate-java-workloads-containers-3-considerations)             | java, kubernetes                        |
+| Jun 19 | ITNEXT                   | [Understanding Kubernetes Maven Plugin resource fragments configuration](https://itnext.io/understanding-kubernetes-maven-plugin-resource-fragments-configuration-32b1d1e757a1) | java, kubernetes, maven                 |
+| May 30 | ITNEXT                   | [Perform Kubernetes Deployment Rolling Updates in Java](https://itnext.io/perform-kubernetes-deployment-rolling-updates-in-java-2a133dbe6e7e)                                                  | java, kubernetes                        |
+| May 22 | ITNEXT                   | [Patch Kubernetes resources in Java using Fabric8 Kubernetes Client](https://itnext.io/patch-kubernetes-resources-in-java-using-fabric8-kubernetes-client-25e0c68b9cb5)                                     | java, kubernetes                        |
+| May 16 | ITNEXT                   | [Understanding Kubernetes Maven Plugin’s Image XML configuration](https://itnext.io/understanding-kubernetes-maven-plugins-image-xml-configuration-e98ef633e231)                                        | java, kubernetes, maven                 |
+| Apr 24 | ITNEXT                   | [Deploy Micronaut Application to Kubernetes using Eclipse JKube](https://itnext.io/deploy-micronaut-application-to-kubernetes-using-eclipse-jkube-684c5e08b2f2)                                         | java, kubernetes, maven                 |
+| Apr 10 | ITNEXT                   | [Apply CustomResource fragments using Eclipse JKube Kubernetes Maven Plugin](https://itnext.io/apply-customresource-fragments-using-eclipse-jkube-kubernetes-maven-plugin-be2cba65b58f)                             | java, kubernetes, maven                 |
+| Feb 07 | ITNEXT                   | [Writing Kubernetes Sample Controller in Java](https://itnext.io/writing-kubernetes-sample-controller-in-java-c8edc38f348f)                                                           | java, kubernetes                        |
+| Jan 29 | ITNEXT                   | [CustomResource Improvements in Fabric8 KubernetesClient v5.0.0](https://itnext.io/customresource-improvements-in-fabric8-kubernetesclient-v5-0-0-4aef4d299323)                                         | java, kubernetes                        |
+
+
+## 2020
+| Date       | Publisher | Title                | tags                                    |
+|--------------|--------------------------|-----------------------------------------|-----------------------------------------|
+| Nov 13 | DZone                    | [Deploy Maven Apps to Kubernetes With JKube Kubernetes Maven Plugin](https://dzone.com/articles/deploy-maven-apps-to-kubernetes-with-jkube-kuberne)    | java, kubernetes, maven                 |
+| Nov 07 | Personal Medium          | [Deploying Eclipse Jetty Web applications to Kubernetes using Eclipse JKube](https://rohaan.medium.com/deploying-eclipse-jetty-web-applications-to-kubernetes-using-eclipse-jkube-9ffb5a29962a)                             | java, kubernetes, maven                 |
+| Oct 30 | Red Hat Developer        | [What's new in Fabric8 Kubernetes Java client 4.12.0](https://developers.redhat.com/blog/2020/10/30/whats-new-in-fabric8-kubernetes-java-client-4-12-0)                                                    | java, kubernetes, maven                 |
+| Oct 11 | The Startup (Medium)     | [Deploy Quarkus Todo List App to Kubernetes Using Eclipse JKube](https://medium.com/swlh/deploy-quarkus-todo-list-app-to-kubernetes-using-eclipse-jkube-c774ef6b68f0)                                         | java, kubernetes, maven                 |
+| Oct 07 | Red Hat Developer        | [Write a simple Kubernetes Operator in Java using the Fabric8 Kubernetes Client](https://developers.redhat.com/blog/2019/10/07/write-a-simple-kubernetes-operator-in-java-using-the-fabric8-kubernetes-client)                         | java, kubernetes, maven                 |
+| Oct 07 | ITNEXT                   | [Access Tekton Pipelines in Java using Fabric8 Tekton Client](https://itnext.io/access-tekton-pipelines-in-java-using-fabric8-tekton-client-bd727bd5806a)                                            | java, kubernetes                        |
+| Sep 21 | ITNEXT                   | [Copy Files to/from Pods in Java using Fabric8 Kubernetes Client](https://itnext.io/copy-files-to-from-pods-in-java-using-fabric8-kubernetes-client-485e73335cb6)                                        | java, kubernetes                        |
+| Sep 21 | Red Hat Developer        | [Migrating from Fabric8 Maven Plugin to Eclipse JKube 1.0.0](https://developers.redhat.com/blog/2020/09/21/migrating-from-fabric8-maven-plugin-to-eclipse-jkube-1-0-0)                                             | java, kubernetes, maven                 |
+| Aug 30 | ITNEXT                   | [Building and Deploying a Weather Web Application onto Kubernetes/Red Hat OpenShift using Eclipse JKube](https://itnext.io/building-and-deploying-a-weather-web-application-onto-kubernetes-red-hat-openshift-using-eclipse-62bf7c924be4) | java, kubernetes, maven                 |
+| Aug 24 | Red Hat Developer        | [Java development on top of Kubernetes using Eclipse JKube](https://developers.redhat.com/blog/2020/08/24/java-development-on-top-of-kubernetes-using-eclipse-jkube#)                                              | java, kubernetes, maven                 |
+| Aug 22 | Personal Medium          | [Deploy IBM OpenLiberty apps onto Kubernetes using Eclipse JKube](https://rohaan.medium.com/deploy-ibm-openliberty-apps-onto-kubernetes-using-eclipse-jkube-610690f08473)                                        | java, kubernetes, maven                 |
+| Aug 08 | Personal Medium          | [Deploy Vert.x applications onto Kubernetes using Eclipse JKube](https://rohaan.medium.com/deploy-vert-x-applications-onto-kubernetes-using-eclipse-jkube-f2d23ef6238d)                                         | java, kubernetes, maven                 |
+| Jul 25 | Personal Medium          | [Deploy any Spring Boot application into Kubernetes using Eclipse JKube](https://rohaan.medium.com/deploy-any-spring-boot-application-into-kubernetes-using-eclipse-jkube-a4167d27ee45)                                 | java, kubernetes, maven                 |
+| Jul 19 | ITNEXT                   | [Difference between Fabric8 and Official Kubernetes Java Client](https://itnext.io/difference-between-fabric8-and-official-kubernetes-java-client-3e0a994fd4af)                                        | java, kubernetes                        |
+| Jun 07 | Personal Medium          | [Accessing Knative REST API using Fabric8 Knative Client](https://rohaan.medium.com/accessing-knative-rest-api-using-fabric8-knative-client-443a16ac43f7)                                                | java, kubernetes, knative               |
+| May 20 | Red Hat Developer        | [Getting started with the fabric8 Kubernetes Java client](https://developers.redhat.com/blog/2020/05/20/getting-started-with-the-fabric8-kubernetes-java-client)                                               | java, kubernetes                        |
+| May 17 | ITNEXT                   | [Mock Kubernetes API server in Java using Fabric8 Kubernetes Mock Server](https://itnext.io/mock-kubernetes-api-server-in-java-using-fabric8-kubernetes-mock-server-81a75cf6c47c)                        | java, kubernetes, testing               |
+| May 17 | Personal Medium          | [Assert state of your Kubernetes Cluster in Java using Fabric8 Kubernetes Assertions](https://rohaan.medium.com/assert-state-of-your-kubernetes-cluster-in-java-using-fabric8-kubernetes-assertions-eae6ba990604)              | java, kubernetes, testing               |
+| May 10 | Personal Medium          | [Introduction to Fabric8 Kubernetes Java Client Informer API](https://rohaan.medium.com/introduction-to-fabric8-kubernetes-java-client-informer-api-b945082d69af)                                            | java, kubernetes, sharedinformers       |
+| Jan 28 | Red Hat Developer        | [Introduction to Eclipse JKube: Java tooling for Kubernetes and Red Hat OpenShift](https://developers.redhat.com/blog/2020/01/28/introduction-to-eclipse-jkube-java-tooling-for-kubernetes-and-red-hat-openshift)                       | java, kubernetes, maven                 |
+
+## 2019
+| Date       | Publisher | Title                | tags                                    |
+|--------------|--------------------------|-----------------------------------------|-----------------------------------------|
+| Dec 28 | ITNEXT                   | [Handling Kubernetes Custom Resources in Java using Fabric8 Kubernetes Client (Part 2 — Typed approach)](https://itnext.io/handling-kubernetes-custom-resources-in-java-using-fabric8-kubernetes-client-part-2-typed-cc0560d9af0d) | java, kubernetes, customresource        |
+| Oct 16 | Personal Medium          | [Handling Kubernetes Custom Resources in Java using Fabric8 Kubernetes Client (Part 1)](https://rohaan.medium.com/handling-kubernetes-custom-resources-in-java-using-fabric8-kubernetes-client-249c4fe01d27)                  | java, kubernetes, customresource        |
+| Mar 18 | Personal Medium          | [Using Eclipse JKube to handle your Kubernetes/OpenShift operations](https://rohaan.medium.com/using-fabric8-maven-plugin-to-handle-your-kubernetes-openshift-operations-b40f6d3ae63f)                                   | java, kubernetes                        |
+

@@ -1,0 +1,41 @@
+baseURL = 'https://rohankanojia.github.io/'
+languageCode = 'en-us'
+title = 'Rohan Kumar | Rohan Kumar'
+theme = 'hugo-sustain'
+
+[params]
+  avatar = "https://1.gravatar.com/avatar/49d61729664c7a355ee4242af061a92de2188699429f6d52c7dc932f04314b72?s=175"
+  author = "Rohan Kumar"
+  description = "Software Developer in India"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = ["css/main.css"]
+  custom_js  = []
+  highlight = true
+
+[params.logo]
+  path = "/hello.png"
+
+[params.social]
+  Github        = "rohanKanojia"
+  Twitter       = "r0hankanojia"
+  LinkedIn      = "rohan-kumar-39356a84"
+  Stackoverflow = "/users/2830116/rohan-kumar"
+  Medium        = "rohaan"
+
+## Main Menu
+[[menu.main]]
+  name = "blogs"
+  weight = 100
+  identifier = "blogs"
+  url = "/blogs"
+[[menu.main]]
+  name = "presentations"
+  identifier = "presentations"
+  weight = 200
+  url = "/presentations"
+[[menu.main]]
+  name = "contact"
+  identifier = "contact"
+  weight = 300
+  url = "/contact"
