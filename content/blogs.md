@@ -1,4 +1,4 @@
-# **Rohan Kumar's Blogs**
+# **Blogs**
 ---
 
 I frequently write blogposts related to the projects I'm working on either on my personal medium or on some other public blogging platforms. 

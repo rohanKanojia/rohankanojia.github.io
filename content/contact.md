@@ -1,4 +1,4 @@
-# **Contact Rohan Kumar**
+# **Contact**
 ---
 You can reach out to Rohan Kumar via the following methods:
 
