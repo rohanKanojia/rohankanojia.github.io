@@ -25,19 +25,24 @@ theme = 'hugo-sustain'
 
 ## Main Menu
 [[menu.main]]
-  name = "blogs"
+  name = "about"
   weight = 100
+  identifier = "about"
+  url = "/about"
+[[menu.main]]
+  name = "blogs"
+  weight = 200
   identifier = "blogs"
   url = "/blogs"
 [[menu.main]]
   name = "presentations"
   identifier = "presentations"
-  weight = 200
+  weight = 300
   url = "/presentations"
 [[menu.main]]
   name = "contact"
   identifier = "contact"
-  weight = 300
+  weight = 400
   url = "/contact"
 
 DefaultContentLanguage = "en"
