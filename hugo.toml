@@ -39,3 +39,14 @@ theme = 'hugo-sustain'
   identifier = "contact"
   weight = 300
   url = "/contact"
+
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = 'Rohan Kumar | Rohan Kumar'
+    languageName = " 🇬🇧 English"
+    weight = 1
+  [languages.hi]
+    title = "रोहन कुमार | रोहन कुमार"
+    languageName = "🇮🇳 Hindi"
+    weight = 2

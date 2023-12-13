@@ -1,4 +1,11 @@
 <footer class="footer">
+  <div>
+    <div class="container">
+        {{ range $.Site.Home.AllTranslations }}
+        <a data-scroll href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        {{ end }}
+    </div>
+  </div>
 </footer>
 
 <!-- Bootstrap core JavaScript -->
