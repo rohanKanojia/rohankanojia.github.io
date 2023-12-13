@@ -6,7 +6,6 @@ I frequently write blogposts related to the projects I'm working on either on my
 ## 2023
 | Date       | Publisher  | Title               | tags                                    |
 |--------------|--------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| Dec 12 | This                    | [test]({{< ref "/content/markdown-blogs/blog1.md" >}})                           | java, kubernetes, docker, maven         |
 |Sep 21 | DZone                    | [How To Deploy Helidon Application to Kubernetes With Kubernetes Maven Plugin](https://dzone.com/articles/how-to-deploy-helidon-application-to-kubernetes-wi)                           | java, kubernetes, docker, maven         |
 | Apr 03 | Personal Medium          | [What’s new in Eclipse JKube v1.12.0 ?](https://rohaan.medium.com/whats-new-in-eclipse-jkube-v1-12-0-2980bafe2328)                                                                  | java, kubernetes, docker, maven, gradle |
 | Jan 24 | Red Hat Developer        | [How to generate code using Fabric8 Kubernetes Client](https://developers.redhat.com/articles/2023/01/24/how-generate-code-using-fabric8-kubernetes-client)                                                   | java, kubernetes                        |
