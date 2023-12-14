@@ -2,11 +2,12 @@ baseURL = 'https://rohankanojia.github.io/'
 languageCode = 'en-us'
 title = 'Rohan Kumar | Rohan Kumar'
 theme = 'hugo-sustain'
+enableRobotsTXT = true
 
 [params]
   avatar = "https://1.gravatar.com/avatar/49d61729664c7a355ee4242af061a92de2188699429f6d52c7dc932f04314b72?s=175"
   author = "Rohan Kumar"
-  description = "Software Developer in India"
+  description = "Rohan Kumar, Software Developer in India"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = ["css/main.css"]
@@ -55,3 +56,23 @@ DefaultContentLanguage = "en"
     title = "रोहन कुमार | रोहन कुमार"
     languageName = "🇮🇳 Hindi"
     weight = 2
+
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = true
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'emacs'
+    tabWidth = 2
+
+
