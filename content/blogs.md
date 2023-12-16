@@ -6,6 +6,7 @@ I frequently write blogposts related to the projects I'm working on either on my
 ## 2023
 | Date      | Publisher         | Title                                                                                                                                                         | tags                                          |
 |-----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Dec 15    |                   | [Publish Java Application Image to External Registry on Red Hat OpenShift]({{< ref "/articles/2023/12/15/openshift-publish-image-external-registry.md" >}})   | openshift, java, maven, image                 |
 | Dec 14    |                   | [Moving to a GitHub Pages bases static website]({{< ref "/articles/2023/12/14/moving-to-gh-pages-website.md" >}})                                             | career, personal-branding, hugo, github-pages |
 | Sep 21    | DZone             | [How To Deploy Helidon Application to Kubernetes With Kubernetes Maven Plugin](https://dzone.com/articles/how-to-deploy-helidon-application-to-kubernetes-wi) | java, kubernetes, docker, maven               |
 | Apr 03    | Personal Medium   | [What’s new in Eclipse JKube v1.12.0 ?](https://rohaan.medium.com/whats-new-in-eclipse-jkube-v1-12-0-2980bafe2328)                                            | java, kubernetes, docker, maven, gradle       |
