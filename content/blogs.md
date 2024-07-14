@@ -3,6 +3,12 @@
 
 I frequently write blogposts related to the projects I'm working on either on my personal medium or on some other public blogging platforms. 
 
+## 2024
+
+| Date      | Publisher         | Title                                                                                                                                                         | tags                                          |
+|-----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Jun 29    |                   | [Effective Kubernetes Testing in Java with Kube API Test]({{< ref "/articles/2024/06/29/effective-kubernetes-testing-kube-api-test.md" >}})   | kubernetes, java, envtest, testing                 |
+
 ## 2023
 | Date      | Publisher         | Title                                                                                                                                                         | tags                                          |
 |-----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
