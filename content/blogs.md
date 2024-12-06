@@ -5,9 +5,10 @@ I frequently write blogposts related to the projects I'm working on either on my
 
 ## 2024
 
-| Date      | Publisher         | Title                                                                                                                                                         | tags                                          |
-|-----------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| Jun 29    |                   | [Effective Kubernetes Testing in Java with Kube API Test]({{< ref "/articles/2024/06/29/effective-kubernetes-testing-kube-api-test.md" >}})   | kubernetes, java, envtest, testing                 |
+| Date      | Publisher         | Title                                                                                                                                                | tags                        |
+|-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Dec 06    |                   | [Simplify Kubernetes Operator Development using Java Operator SDK]({{< ref "/articles/2024/12/06/simplify-kubernetes-operator-development-java-operator-sdk.md" >}}) | kubernetes, java, operators |
+| Jun 29    |                   | [Effective Kubernetes Testing in Java with Kube API Test]({{< ref "/articles/2024/06/29/effective-kubernetes-testing-kube-api-test.md" >}})          | kubernetes, java, envtest, testing |
 
 ## 2023
 | Date      | Publisher         | Title                                                                                                                                                         | tags                                          |
