@@ -5,7 +5,7 @@ I won't say that I'm a good presenter. However, I've had the opportunity to pres
 
 | Date         | Event                                       | Presentation Title                                   | tags                            |
 |--------------|---------------------------------------------|------------------------------------------------------|---------------------------------|
-| Mar 15, 2025 | FOSSAsia Summit 2025, Thailand              | [Streamlining Java Application Deployment on Kubernetes with Eclipse JKube](https://www.youtube.com/watch?v=OFeAr4trbqE&t=6669s) | java, kubernetes, containers    |
+| Mar 15, 2025 | FOSSAsia Summit 2025, Thailand              | [Streamlining Java Application Deployment on Kubernetes with Eclipse JKube](https://youtu.be/AeWLhpCFF58) | java, kubernetes, containers    |
 | Dec 11, 2024 | KubeCon India 2024                          | [Developing Kubernetes Applications Beyond Go - Rohan Kumar, Red Hat & Sun Tan, Sciam](https://youtu.be/o64TPTWDxWU) | java, kubernetes, client        |
 | Oct 20, 2024 | Gujrat Java User Group                      | [Kickstart Your Open Source Journey as a Java Developer](https://www.youtube.com/watch?v=65jLZYSIB3A) | java, open source               |
 | May 03, 2021 | Bangalore Java User Group                   | [Java Development on Kubernetes using Eclipse JKube](https://www.youtube.com/watch?v=O9Fvtl2Nz6c&pp=ygUfYmFuZ2Fsb3JlIGphdmEgdXNlciBncm91cCBqa3ViZQ%3D%3D)   | java, kubernetes, docker, maven |
