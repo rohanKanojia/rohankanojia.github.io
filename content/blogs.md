@@ -6,7 +6,7 @@ I frequently write blogposts related to the projects I'm working on either on my
 ## 2025
 | Date      | Publisher         | Title                                                                                                                                                | tags                        |
 |-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Jun 13    |                   | [How to run AI models in cloud development environments](https://developers.redhat.com/articles/2025/06/13/how-run-ai-models-cloud-development-environments) | Artificial intelligence, RamaLama, Developer Tools, IDEs |
+| Jun 13    | Red Hat Developer | [How to run AI models in cloud development environments](https://developers.redhat.com/articles/2025/06/13/how-run-ai-models-cloud-development-environments) | Artificial intelligence, RamaLama, Developer Tools, IDEs |
 
 ## 2024
 
