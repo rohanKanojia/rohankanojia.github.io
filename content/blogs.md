@@ -6,6 +6,7 @@ I frequently write blogposts related to the projects I'm working on either on my
 ## 2025
 | Date      | Publisher         | Title                                                                                                                                                | tags                        |
 |-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Oct 14    | Red Hat Developer | [OpenShift AI Learning Path: How to run AI models in cloud development environments](https://developers.redhat.com/learn/openshift-ai/how-run-ai-models-cloud-development-environments?source=sso) | Artificial intelligence, RamaLama, Developer Tools, DevSpaces |
 | Jun 13    | Red Hat Developer | [How to run AI models in cloud development environments](https://developers.redhat.com/articles/2025/06/13/how-run-ai-models-cloud-development-environments) | Artificial intelligence, RamaLama, Developer Tools, IDEs |
 
 ## 2024
