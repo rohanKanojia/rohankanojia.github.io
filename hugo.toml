@@ -19,7 +19,7 @@ enableRobotsTXT = true
 
 [params.social]
   Github        = "rohanKanojia"
-  Twitter       = "r0hankanojia"
+  BlueSky       = "rohankanojia.bsky.social"
   LinkedIn      = "rohan-kumar-39356a84"
   Stackoverflow = "/users/2830116/rohan-kumar"
   Medium        = "rohaan"
