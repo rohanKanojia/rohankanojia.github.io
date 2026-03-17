@@ -5,6 +5,7 @@ I won't say that I'm a good presenter. However, I've had the opportunity to pres
 
 | Date         | Event                                       | Presentation Title                                   | tags                            |
 |--------------|---------------------------------------------|------------------------------------------------------|---------------------------------|
+| Mar 10, 2026 | FOSSAsia Summit 2026, Thailand              | [Standardizing Developer Experience: Eclipse Che and the Power of Cloud Development Environments](https://youtu.be/M-hub_7CORA?t=5153) | cloud development environments, containers, eclipse che    |
 | Mar 15, 2025 | FOSSAsia Summit 2025, Thailand              | [Streamlining Java Application Deployment on Kubernetes with Eclipse JKube](https://youtu.be/AeWLhpCFF58) | java, kubernetes, containers    |
 | Dec 11, 2024 | KubeCon India 2024                          | [Developing Kubernetes Applications Beyond Go - Rohan Kumar, Red Hat & Sun Tan, Sciam](https://youtu.be/o64TPTWDxWU) | java, kubernetes, client        |
 | Oct 20, 2024 | Gujrat Java User Group                      | [Kickstart Your Open Source Journey as a Java Developer](https://www.youtube.com/watch?v=65jLZYSIB3A) | java, open source               |
