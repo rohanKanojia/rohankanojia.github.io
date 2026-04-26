@@ -1,7 +1,12 @@
 # **Blogs**
 ---
 
-I frequently write blogposts related to the projects I'm working on either on my personal medium or on some other public blogging platforms. 
+I frequently write blogposts related to the projects I'm working on either on my personal medium or on some other public blogging platforms.
+
+## 2026
+| Date      | Publisher         | Title                                                                                                                                                | tags                        |
+|-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Apr 22    | Red Hat Developer | [OpenCode: A model-neutral AI coding assistant for OpenShift Dev Spaces](https://developers.redhat.com/articles/2026/04/22/opencode-model-neutral-ai-coding-assistant-openshift-dev-spaces) | Developer tools, IDEs, AI |
 
 ## 2025
 | Date      | Publisher         | Title                                                                                                                                                | tags                        |
