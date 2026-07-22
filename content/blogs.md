@@ -6,8 +6,8 @@ I frequently write blogposts related to the projects I'm working on either on my
 ## 2026
 | Date      | Publisher         | Title                                                                                                                                                | tags                        |
 |-----------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Apr 22    | Red Hat Developer | [OpenCode: A model-neutral AI coding assistant for OpenShift Dev Spaces](https://developers.redhat.com/articles/2026/04/22/opencode-model-neutral-ai-coding-assistant-openshift-dev-spaces) | Developer tools, IDEs, AI |
 | Jul 22    | Eclipse Che Blog | [Beyond Human IDEs: Running Agentic Workspaces in Eclipse Che](https://che.eclipseprojects.io/2026/07/22/@rohan.kumar-beyond-human-ides-running-agentic-workspaces.html) | Eclipse Che, IDEs, AI, Agentic Workspaces |
+| Apr 22    | Red Hat Developer | [OpenCode: A model-neutral AI coding assistant for OpenShift Dev Spaces](https://developers.redhat.com/articles/2026/04/22/opencode-model-neutral-ai-coding-assistant-openshift-dev-spaces) | Developer tools, IDEs, AI |
 
 ## 2025
 | Date      | Publisher         | Title                                                                                                                                                | tags                        |
